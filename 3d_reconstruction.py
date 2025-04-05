@@ -13,7 +13,6 @@ import cv2
 import os
 from sklearn.cluster import DBSCAN
 import matplotlib.pyplot as plt
-from mpl_toolkits.mplot3d import Axes3D
 
 # ----------------------------------------------------------------
 # Step I: Feature Extraction & Matching using SIFT and BFMatcher
