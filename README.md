@@ -1,6 +1,7 @@
 # Structure from motion
 
 Author : Mathis Saunier
+Git : https://github.com/mathis-saunier/3D_Reconstruction.git
 
 ## Introduction
 
